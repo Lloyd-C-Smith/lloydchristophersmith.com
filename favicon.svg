@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">LS</title>
-  <rect width="64" height="64" rx="10" fill="#172033"/>
-  <g fill="none" stroke="#fbfaf6" stroke-width="3.15" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M14 12v39h17"/>
-    <path d="M49 18c-2.6-4.4-7-6.6-11.8-6.6-6.1 0-10.3 3.4-10.3 8.2 0 5.3 4.4 7 10.8 8.9 6.8 2 10.6 4.5 10.6 10.1 0 6-4.8 10-11.5 10-5.8 0-10.4-2.5-13.3-7"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#161616"/>
+  <path d="M17 15v34h18" fill="none" stroke="#fbfaf7" stroke-width="4.4" stroke-linecap="square"/>
+  <path d="M45 19c-2.5-3.7-6-5.5-10.1-5.5-5.2 0-8.6 2.8-8.6 7.1 0 10.1 18.9 6 18.9 16.5 0 5.2-4.3 8.9-10.3 8.9-5.2 0-9.5-2.2-11.8-5.9" fill="none" stroke="#fbfaf7" stroke-width="3.4" stroke-linecap="round"/>
 </svg>
