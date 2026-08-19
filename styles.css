@@ -127,7 +127,6 @@ main { flex: 1; }
   grid-template-columns: 160px 1fr;
   gap: 32px;
   padding: 32px 0;
-  border-bottom: 1px solid var(--line);
 }
 .empty-label { color: var(--muted); font-size: .75rem; text-transform: uppercase; letter-spacing: .1em; }
 .empty-state p { max-width: 560px; margin: 0; font-family: var(--serif); font-size: 1.25rem; line-height: 1.5; }
