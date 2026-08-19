@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
   <title id="title">Lloyd Christopher Smith</title>
-  <rect width="96" height="96" rx="15" fill="#101827"/>
-  <g fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="400">
-    <text x="15" y="72" font-size="76">L</text>
-    <text x="38" y="72" font-size="72">S</text>
+  <rect width="96" height="96" rx="19" fill="#17213a"/>
+  <g fill="none" stroke="#f7f4ec" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 16v63h39"/>
+    <path d="M72 25c-4.3-7.6-12.5-11.3-21-11.3-11 0-18.7 5.8-18.7 14.6 0 19.5 37.5 11.8 37.5 32.8 0 10.4-8.8 17.8-20.9 17.8-10.8 0-19.8-4.7-24.6-12.5"/>
   </g>
 </svg>
