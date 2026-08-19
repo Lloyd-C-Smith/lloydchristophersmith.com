@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#161616"/>
-  <path d="M17 15v34h18" fill="none" stroke="#fbfaf7" stroke-width="4.4" stroke-linecap="square"/>
-  <path d="M45 19c-2.5-3.7-6-5.5-10.1-5.5-5.2 0-8.6 2.8-8.6 7.1 0 10.1 18.9 6 18.9 16.5 0 5.2-4.3 8.9-10.3 8.9-5.2 0-9.5-2.2-11.8-5.9" fill="none" stroke="#fbfaf7" stroke-width="3.4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Lloyd Christopher Smith</title>
+  <rect x="6" y="6" width="52" height="52" rx="10" fill="#161616"/>
+  <path d="M26 18h4.8v23.4h13.6V46H26z" fill="#ffffff"/>
 </svg>
